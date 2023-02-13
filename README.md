@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hasanovf
+- 👋 Hi, I’m @NeoRoyal But u can call me "hasanovr"
 - 👀 I’m interested in Programming and Cyber Security
 - 🌱 I’m currently learning C++
 - 📫 How to reach me royalxeyaloglu884@gmail.com
