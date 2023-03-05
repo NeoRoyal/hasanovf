@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming, Cyber Security and Game Development
 - 🌱 I’m currently learning C++
 - 📫 How to reach me royalxeyaloglu884@gmail.com
-- 🌐 neoroyal.github.io
+- 🌐 [https://neoroyal.github.io/](https://neoroyal.github.io/)
 
 <!---
 hasanovf/hasanovf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
